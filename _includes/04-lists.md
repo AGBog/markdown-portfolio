@@ -1,4 +1,4 @@
-- Hufflepuff :yellow_heart::black_heart:
+- Hufflepuff :yellow_heart: :black_heart:
 
 - Helado en días fríos :ice_cream:
 
